@@ -1,0 +1,16 @@
+# Environments
+.env
+
+#wandb run information
+wandb/
+
+# trained model weights
+trained_models/
+
+# Checkpoints
+checkpoints/
+
+#Data 
+data/
+
+__pycache__/
